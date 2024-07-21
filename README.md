@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/u/user5568qk/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" height="25" alt="leetcode logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pkgbPPRza-wx8rY9izESXD3rm5cS_LXeyQ&s" height="25" alt="leetcode logo"  />
   </a>
 </div>
 
